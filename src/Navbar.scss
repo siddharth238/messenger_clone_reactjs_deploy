@@ -1,0 +1,48 @@
+.app__navbar {
+     
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    padding: 1rem 2rem;
+    background: rgba(0, 21, 255, 0.25);
+    box-shadow: 0 8px 20px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+   
+    z-index: 5;
+    @media screen and (max-width: 900px) {
+       flex-direction: column;
+    }
+     
+  }
+  
+  .app__navbar-logo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+   
+  }
+  
+  .app__navbar-links {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    list-style: none;
+   
+    
+  
+    
+  }
+  
+   .media{
+     p{
+      @media screen and (max-width: 900px) {
+        font-size: 10px;
+     }
+     }
+   }

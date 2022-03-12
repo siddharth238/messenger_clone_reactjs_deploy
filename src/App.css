@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+   width: 100%;
+   
+}
+
+
+.form-main{
+  margin: 0;
+  bottom: 20px;
+  position: fixed;
+  width:fit-content;
+  bottom:  0px;
+  width: 100%;
+  z-index: 3;
+     
+ }
+ 
+  
+ 
