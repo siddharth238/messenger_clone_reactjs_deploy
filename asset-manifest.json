@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/messenger_clone_reactjs/static/css/main.6681bcda.css",
+    "main.js": "/messenger_clone_reactjs/static/js/main.5fcbfe98.js",
+    "static/js/787.3398cd0c.chunk.js": "/messenger_clone_reactjs/static/js/787.3398cd0c.chunk.js",
+    "index.html": "/messenger_clone_reactjs/index.html",
+    "main.6681bcda.css.map": "/messenger_clone_reactjs/static/css/main.6681bcda.css.map",
+    "main.5fcbfe98.js.map": "/messenger_clone_reactjs/static/js/main.5fcbfe98.js.map",
+    "787.3398cd0c.chunk.js.map": "/messenger_clone_reactjs/static/js/787.3398cd0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6681bcda.css",
+    "static/js/main.5fcbfe98.js"
+  ]
+}
